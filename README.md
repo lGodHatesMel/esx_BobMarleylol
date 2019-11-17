@@ -15,7 +15,6 @@ Config options -
 - % amount of armour each joint gives you
 - Time to roll 
 - amount of rolling papers you need to roll
-- max amount of joint you can hold
 
 Note: Depending on which script you are using and what you call your drugs
 Then you may need to change the name of the item that is use to roll joints 
