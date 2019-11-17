@@ -23,4 +23,6 @@ So for example 'weed', 'bagofweed', 'trimmedweed'
 
 Dependency:
 
+pNotify - (as of right now "pNotify" is needed for the server side of 'Rolling Joints' part.. i will update it once it stops giving me problem using mythic progbar on the client side of it. 
+
 Mythic_progbar - https://github.com/mythicrp/mythic_progbar
